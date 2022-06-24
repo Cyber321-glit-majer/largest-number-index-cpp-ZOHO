@@ -6,6 +6,7 @@ Determine whether the largest element in the array is at least twice as much as 
 if it is,return the index of the largest element ,or return -1 otherwise.
 
 **NOTE:**
+
 1): Do not sort the array
 
 2):Do not use new array
