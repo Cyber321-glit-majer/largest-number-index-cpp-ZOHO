@@ -1,4 +1,4 @@
-# largest-number-index-cpp-ZOHOput:
+# largest-number-index-cpp-ZOHO:
 
 **PROBLEM STATEMENT**
 You are an integer array nums where the largest integer is unique.
@@ -7,9 +7,11 @@ if it is,return the index of the largest element ,or return -1 otherwise.
 
 **NOTE:**
 1): Do not sort the array
+
 2):Do not use new array
 
 Example:
+
 Input1: a[]={1,3,6,2}
 output:2
 
