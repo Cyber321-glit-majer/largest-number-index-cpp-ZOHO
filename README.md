@@ -14,9 +14,11 @@ if it is,return the index of the largest element ,or return -1 otherwise.
 Example:
 
 Input1: a[]={1,3,6,2}
+
 output:2
 
 Input2: a[]={1,4,2,5}
+
 Output: -1
 
 
